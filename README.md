@@ -2,9 +2,8 @@
 
 ## I'm a Developer, and blogger.
 
-- Intersted in UI design and all things JS.
+- ⚡ Intersted in UI design and all things JS.
 - 👯 I’m looking to collaborate with other developers.
-- ⚡ Fun fact: I like animes and si-fi tv shows.
 
 ### Connect with me:
 

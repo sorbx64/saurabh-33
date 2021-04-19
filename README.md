@@ -14,7 +14,7 @@
 
 ### Languages and Tools I use:
 
-<div style="width: 100%; overflow-x: auto;">
+<div style="width: 100%; overflow-x: auto; margin: 8px 0 8px 0;">
   <img title="Visual Studio code" align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img title="HTML5" align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img title="CSS3" align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -31,9 +31,7 @@
   <img title="Svelte" title="svelte" align="left" alt="svelte" width="120px" src="https://svelte.dev/svelte-logo-horizontal.svg" />
 </div>
 
-<br />
-<br />
-
+---
 
 [![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=saurabh-33)](https://github.com/anuraghazra/github-readme-stats)
 

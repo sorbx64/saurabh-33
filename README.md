@@ -1,7 +1,5 @@
 ### Hi 👋, I am Saurabh - web developer, love open source and github community.
 
-### I'm a Developer, and blogger.
-
 - ⚡ Intersted in UI design and all things JS.
 - 👯 I’m looking to collaborate with other developers.
 

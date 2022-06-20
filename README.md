@@ -63,5 +63,5 @@
 
 [![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=saurabh-33)](https://github.com/anuraghazra/github-readme-stats)
 
-[twitter]: https://twitter.com/saurabh__33
-[linkedin]: https://linkedin.com/in/saurabh-33
+[twitter]: https://twitter.com/sorbx64
+[linkedin]: https://linkedin.com/in/sorbx64
